@@ -1,4 +1,5 @@
 #include <cstdio>
+#include <cv_bridge/cv_bridge.h>
 
 int main(int argc, char ** argv)
 {
