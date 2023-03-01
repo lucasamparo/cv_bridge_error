@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/lucas/jiro/autoproj_ws/install/rqt_dashboard/lib/python3.10/site-packages",
+        "/home/lucas/jiro/autoproj_ws/install/ros_common_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

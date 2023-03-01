@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lucas/jiro/autoproj_ws/install/ros_driver_base/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/robot_status_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/pantilt_control_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/led_control_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/ros_common_interfaces/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/ros_camera_viewer/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/camera_view_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/jiro_oii_binaries/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/jiro_lifecycle_node/include/**",
+        "/home/lucas/jiro/autoproj_ws/install/driver_base/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/bowtech_light_driver/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/camera_view_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/dummy_package/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/jiro2_control/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/jiro_lifecycle_node/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/led_control_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/npd-br-jiro-oii-binaries/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/pantilt_control_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/robot_status_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/ros_camera_viewer/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/ros_driver_base/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/sonar_widget_plugin/include/**",
+        "/home/lucas/jiro/autoproj_ws/src/tritech_micron_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
